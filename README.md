@@ -1,4 +1,4 @@
 # Amnesia
 High school senior design project - an interactive trivia game
 
-WILL BE UPLOADED THIS MONTH (DECEMBER 2018)
+To play the game, run the AmnesiaGame.java class!
